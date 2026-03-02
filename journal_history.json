@@ -1,0 +1,44 @@
+[
+    {
+        "text": "idhdavdf",
+        "summary": "idhdavdf",
+        "word_count": 1,
+        "sentiment": "Neutral",
+        "timestamp": "2025-11-27 23:53:07"
+    },
+    {
+        "text": "i am sad",
+        "summary": "i am sad",
+        "word_count": 3,
+        "sentiment": "Negative",
+        "timestamp": "2025-11-27 23:53:19"
+    },
+    {
+        "text": "difjidfj",
+        "summary": "difjidfj",
+        "word_count": 1,
+        "sentiment": "Neutral",
+        "timestamp": "2025-11-27 23:53:56"
+    },
+    {
+        "text": "difjidfj",
+        "summary": "difjidfj",
+        "word_count": 1,
+        "sentiment": "Neutral",
+        "timestamp": "2025-11-28 00:00:27"
+    },
+    {
+        "text": "happy",
+        "summary": "happy",
+        "word_count": 1,
+        "sentiment": "Positive",
+        "timestamp": "2025-11-28 00:00:38"
+    },
+    {
+        "text": "happy",
+        "summary": "happy",
+        "word_count": 1,
+        "sentiment": "Positive",
+        "timestamp": "2025-11-28 00:01:29"
+    }
+]

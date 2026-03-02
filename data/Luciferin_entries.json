@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "date": "2025-11-30T21:22:54.370601",
+    "text": "ifjisjfifg",
+    "mood_score": 5,
+    "primary_mood": "thoughtful",
+    "secondary_mood": "reflective",
+    "keywords": [
+      "reflective",
+      "thoughtful",
+      "balanced",
+      "contemplative"
+    ],
+    "analysis": "This entry shows thoughtful reflection and balanced emotions. Continue writing to explore your feelings."
+  },
+  {
+    "id": 2,
+    "date": "2025-11-30T21:24:11.558712",
+    "text": "verry sad",
+    "mood_score": 1,
+    "primary_mood": "frustrated",
+    "secondary_mood": "stressed",
+    "keywords": [
+      "reflective",
+      "challenging",
+      "growth",
+      "understanding"
+    ],
+    "analysis": "This entry shows some challenging emotions. Remember that all feelings are valid and temporary. Consider what might help improve your mood."
+  },
+  {
+    "id": 3,
+    "date": "2025-11-30T21:38:43.322953",
+    "text": "i am feeling bad today",
+    "mood_score": 1,
+    "primary_mood": "sad",
+    "secondary_mood": "stressed",
+    "keywords": [
+      "reflective",
+      "challenging",
+      "growth",
+      "understanding",
+      "self-care"
+    ],
+    "analysis": "I notice you're feeling sad. Remember that all emotions are valid and temporary. Be gentle with yourself during this time.",
+    "emoji": "\ud83d\ude1e"
+  }
+]
