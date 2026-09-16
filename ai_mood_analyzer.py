@@ -14,7 +14,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed"
 )
-#THIS SI A TEST CSE
 
 # Vibrant Colorful CSS
 st.markdown("""
